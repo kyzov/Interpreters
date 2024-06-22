@@ -1,0 +1,6 @@
+foo3(y): y+y;
+myvar(i)=15;
+bg(f)=25;
+newvar = myvar + bg;
+print newvar;
+print

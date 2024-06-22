@@ -1,0 +1,6 @@
+// run program
+go run main.go func.go code_for_interpreter.txt
+// build and run with args
+go build -o main.exe main.go func.go 
+main.exe code_for_interpreter.txt (./main)
+
